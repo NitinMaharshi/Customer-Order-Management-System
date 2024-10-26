@@ -24,8 +24,8 @@ This is the frontend application for the Customer Order Management System, built
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-repo/customer-order-management.git
-   cd customer-order-management/frontend
+   git clone https://github.com/NitinMaharshi/Customer-Order-Management-System.git
+   cd customer-order-management
 
 
 Install dependencies:
