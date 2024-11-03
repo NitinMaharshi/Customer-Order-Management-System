@@ -50,7 +50,7 @@ const SignUp = () => {
         <div className='h-screen flex justify-center items-center'>
             <div className="w-full max-w-md m-auto p-4 bg-white border border-gray-200 rounded-lg shadow sm:p-6 md:p-6 dark:bg-gray-800 dark:border-gray-700">
                 <Formik
-                    initialValues={{ firtName: "", lastName: "", email: '', password: '' }}
+                    initialValues={{ firstName: "", lastName: "", email: '', password: '' }}
                     validationSchema={PasswordValidation}
                     onSubmit={handleSubmit}
                 >
